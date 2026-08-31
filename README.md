@@ -1,21 +1,111 @@
-# 💫 About Me:
-## 👋 Hello, I'm Laiba<br><br>- 🌱 Currently learning and growing as a **Developer**<br>- 👨‍🏫 Working as a **Teacher**, sharing knowledge and guiding others<br>- 💬 Ask me about **Web Development, eCommerce Systems, Web3, and Automation**<br>- ⚡ Fun fact: I love turning ideas into real-world products 💡
+<div align="center">
 
+# ✨ Welcome to Laiba Khursheed's Portfolio & Educator Hub 🎨
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maryaminternationalllc@gmail.com) 
+<p><b>Official Digital Presence of Laiba Khursheed — MFA Painter, Professional Artist & Primary Art Educator in Dubai, UAE</b></p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Erlang](https://img.shields.io/badge/Erlang-white.svg?style=for-the-badge&logo=erlang&logoColor=a90533) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Framework7](https://img.shields.io/badge/framework7-%23EE350F.svg?style=for-the-badge&logo=framework7&logoColor=white) ![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=laibakhursheed1198&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=laibakhursheed1198&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=laibakhursheed1198&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p>
+  <a href="https://laibakhursheed.com"><img src="https://img.shields.io/badge/🌐_Official_Website-laibakhursheed.com-000?style=for-the-badge" alt="Website"></a> &nbsp;&bull;&nbsp;
+  <a href="https://www.instagram.com/laibakhursheed/"><img src="https://img.shields.io/badge/📸_Instagram-laibakhursheed-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a> &nbsp;&bull;&nbsp;
+  <a href="https://laibakhursheed.com/about"><img src="https://img.shields.io/badge/ℹ️_About_Me-Explore-000?style=for-the-badge" alt="About"></a> &nbsp;&bull;&nbsp;
+  <a href="https://laibakhursheed.com/portfolio"><img src="https://img.shields.io/badge/🖼️_Portfolio-View-000?style=for-the-badge" alt="Portfolio"></a> &nbsp;&bull;&nbsp;
+  <a href="https://laibakhursheed.com/contact"><img src="https://img.shields.io/badge/✉️_Get_in_Touch-Contact-000?style=for-the-badge" alt="Contact"></a>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=laibakhursheed1198&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=laibakhursheed1198&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌸 About Laiba Khursheed
+
+> **Laiba Khursheed** is an MFA-trained professional painter, studio artist, and primary art educator currently based in Dubai, United Arab Emirates. Her practice bridges rigorous studio painting and dynamic classroom instruction, translating everyday life into pigment—from Dubai’s modern classrooms to the historical ghats of Prayagraj. 
+> 
+> With formal training from the University of Allahabad (BFA) and Aligarh Muslim University (MFA), Laiba brings a working artist's mindset into every lesson plan, exhibition, and canvas. Explore her background and artistic philosophy on her official [About](https://laibakhursheed.com/about) page.
+
+---
+
+## 📊 By the Numbers
+
+<table>
+<tr>
+<td align="center" width="25%">
+  <h3>5+</h3>
+  <p><b>Years of Practice</b></p>
+</td>
+<td align="center" width="25%">
+  <h3>2+</h3>
+  <p><b>Years Teaching in UAE</b></p>
+</td>
+<td align="center" width="25%">
+  <h3>348</h3>
+  <p><b>Works Completed</b></p>
+</td>
+<td align="center" width="25%">
+  <h3>100+</h3>
+  <p><b>Student Artworks Exhibited</b></p>
+</td>
+</tr>
+</table>
+
+---
+
+## 🎨 Core Artistic & Academic Specializations
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🖌️ 1. Studio & Fine Art Practice
+A diverse range of mediums and expressive techniques developed through years of dedicated studio work:
+* **Mediums:** Acrylic Painting, Watercolour, Oil Painting, Graphite Sketching, and Print Making.
+* **Compositions:** Mural Art, Life Study, Landscape Painting, and Stone Carving & Sculpture.
+* **Original Works:** Hundreds of completed pieces capturing mood, light, texture, and cultural narratives.
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 2. Teaching & Curriculum Development
+Dedicated pedagogy designed to foster creativity, confidence, and critical thinking in young learners:
+* **Current Role:** Primary Art Teacher & Life Skills Facilitator at Al Sadiq Islamic English School (Al Qusais, Dubai).
+* **Classroom Expertise:** Lesson Planning, Differentiated Instruction, Assessment & Evaluation, and Cross-curricular Art Integration.
+* **Student Showcases:** Organizing vibrant student exhibitions displaying over 100+ youth artworks.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🖼️ Explore the Portfolio & Exhibitions
+
+Discover Laiba’s latest paintings, prints, and site-specific murals by visiting the online [Portfolio](https://laibakhursheed.com/portfolio). Her works span multiple studies in acrylic, detailed watercolour compositions, and immersive canvas explorations. 
+
+---
+
+## 🚀 Professional Background & Education
+
+* **Master of Fine Arts (MFA)** — Aligarh Muslim University, Aligarh, India (2020)
+* **Bachelor of Fine Arts (BFA)** — University of Allahabad, Prayagraj, India (2016)
+* **Primary Art Teacher** — Al Sadiq Islamic English School, Dubai, UAE (2024 – Present)
+* **Art & Design Teacher** — Prayagraj, Uttar Pradesh, India (2020 – 2022)
+
+---
+
+## 📞 Connect & Collaborate
+
+Whether you are looking for an experienced art educator for school programs, custom fine art commissions, or creative workshops across Dubai, Sharjah, Ajman, Abu Dhabi, and Uttar Pradesh:
+
+* **Official Website:** [LaibaKhursheed.com](https://laibakhursheed.com)
+* **Instagram Gallery:** [@laibakhursheed](https://www.instagram.com/laibakhursheed/)
+* **Professional Biography:** [About Laiba](https://laibakhursheed.com/about)
+* **Art Gallery:** [Portfolio & Works](https://laibakhursheed.com/portfolio)
+* **Direct Inquiries:** [Contact & Booking](https://laibakhursheed.com/contact)
+* **Email:** `Laibakhursheed1198@gmail.com`
+* **Direct WhatsApp Support:** [+971 56 963 7668](https://wa.me/971569637668)
+
+### 🌐 Official Channels & Region
+* **Operating Regions:** Dubai, Sharjah, Ajman, Abu Dhabi (UAE) | Prayagraj, Allahabad, Uttar Pradesh (India)
+* **Primary Focus:** Fine Arts, Professional Painting, Primary Education, Art Curriculum
+
+---
+<p align="center"><i>Thank you for visiting the official GitHub repository and developer resource for LaibaKhursheed.com. Championing arts education and creative expression across borders.</i></p>
